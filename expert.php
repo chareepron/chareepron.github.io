@@ -7,6 +7,7 @@
 
 <body>
 <?
+// test
  include "connect.php";
  		 $expert_idValue=$_GET["expert_id"];
 		 $expert_nameValue=$_GET["expert_name"];
